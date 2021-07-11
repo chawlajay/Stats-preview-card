@@ -66,4 +66,4 @@ After this, I think I am going to do more HTML, CSS & JS projects which will hel
 
 ## Acknowledgments
 
-I would to thanks (Rohit)[https://github.com/rohitbakoliya] for helping me in positioning elements for mobile view card.
+I would to thanks [Rohit](https://github.com/rohitbakoliya) for helping me in positioning elements for mobile view card.
