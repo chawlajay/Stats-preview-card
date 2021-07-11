@@ -37,6 +37,10 @@ line-height: 1.2;
     padding-right: 20%;
 }
 
+#insights{
+    color: hsla(277, 64%, 61%, 0.6);
+}
+
 .details > p{
     font-family: 'Inter', sans-serif;
     font-size: 15px;
